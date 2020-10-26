@@ -4,11 +4,9 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 from pandas import read_csv
 from matplotlib import rc
-
 ############################################
 rhs2 = read_csv('results/k_new.dat',  header=None, delimiter=r"\s+").values
 rhs2=np.transpose(rhs2) 
-
 XX=np.linspace(0,1,32)
 print(rhs2.shape)
 ############################################
