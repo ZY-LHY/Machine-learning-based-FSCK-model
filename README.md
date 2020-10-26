@@ -10,12 +10,19 @@ Instructions (The machine learning based FSCK model):
 !-The program is used to calculate k-distributions (32 Gaussa Chebyshev quadrature points) 
 !-The thermodynamic states for the gas mixture profiles can be changed in "Main.f90":
 1) Clean up
+
 command: make clean
+
 2) Compile the Fortran program
+
 command: make
-3) Calculate the radiative heat loss with the machine learning based FSCK model (1-D exact+FSCK):
+
+3) Get the k-distributions:
+
 command:   ./rhs 
+
 4) Plot the results
+
 command: python plot.py
 
 # Citation
