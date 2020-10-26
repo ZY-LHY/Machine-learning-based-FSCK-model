@@ -8,6 +8,8 @@ Compulsory libraries
 
 GNU Fortran
 
+Python
+
 # Quick Start
 Instructions (The machine learning based FSCK model): 
 
