@@ -1,18 +1,11 @@
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 module MLP
-
 private
 integer,parameter :: Nq=32
 public :: get_k_mlp_1,get_k_mlp_2
 save
-
-
 CONTAINS
-
-
-
-
 subroutine get_k_mlp_1(Mix_Info,Tref,k)
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ! subroutine to calculate the k-values for a given state
