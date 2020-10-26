@@ -20,19 +20,11 @@ command: python plot.py
 
 # Citation
 If you used this package in your research and is interested in citing it here's how you do it:
-
 @article{ML:Zwr20,
-
 title = "A machine learning based efficient and compact full-spectrum correlated $k$-distribution model",
-
 journal = "Journal of Quantitative Spectroscopy and Radiative Transfer",
-
 volume = "254",
-
 pages = "107199",
-
 year = "2020",
-
 author = "Ya Zhou and Chaojun Wang and Tao Ren",
-
 }
