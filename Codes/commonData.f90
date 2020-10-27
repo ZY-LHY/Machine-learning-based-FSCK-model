@@ -1,18 +1,3 @@
-!!$**********************************************************************************
-!!$                   SPECTRAL RADIATION CALCULATION SOFTWARE ~ SRCS ~
-!!$**********************************************************************************
-!!$
-!!$                     COPYRIGHT (C) 2013 MICHAEL F. MODEST
-!!$
-!!$                           SCHOOL OF ENGINEERING                      
-!!$                      UNIVERSITY OF CALIFORNIA AT MERCED
-!!$
-!!$	License: 
-!!$		This file is a part of SRCS.
-!!$		Used for non-commercial purposes only.
-!!$		Not to be distributed without the permission of the copyright holder
-!!$
-!!$**********************************************************************************
 !************************************************************************************************************************
 ! Module containing common data for all methods and databases
 !************************************************************************************************************************
