@@ -41,10 +41,6 @@ title = "A machine learning based efficient and compact full-spectrum correlated
 
 journal = "Journal of Quantitative Spectroscopy and Radiative Transfer",
 
-volume = "254",
-
-pages = "107199",
-
 year = "2020",
 
 author = "Ya Zhou and Chaojun Wang and Tao Ren",
